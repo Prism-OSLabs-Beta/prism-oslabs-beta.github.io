@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prism-oslabs-beta.github.io/static/css/main.c3fe1380.css",
+    "main.js": "/prism-oslabs-beta.github.io/static/js/main.98ac3e18.js",
+    "static/media/selected_4_dark.png": "/prism-oslabs-beta.github.io/static/media/selected_4_dark.b20f894545fc668df14a.png",
+    "static/media/selected_4_light.png": "/prism-oslabs-beta.github.io/static/media/selected_4_light.78823a1ef9728da6b5c2.png",
+    "static/media/selected_1_Dark.png": "/prism-oslabs-beta.github.io/static/media/selected_1_Dark.b1fea35674bf28da03fb.png",
+    "static/media/selected_1_Light.png": "/prism-oslabs-beta.github.io/static/media/selected_1_Light.ae1ad334e6575c8ffd7c.png",
+    "static/media/selected_5_dark.png": "/prism-oslabs-beta.github.io/static/media/selected_5_dark.27ab34c8fa2b4d01c4eb.png",
+    "static/media/selected_5_light.png": "/prism-oslabs-beta.github.io/static/media/selected_5_light.a2e211686d932f0be9f3.png",
+    "static/media/logo-twitter-png-40404.png": "/prism-oslabs-beta.github.io/static/media/logo-twitter-png-40404.25333c6b71e7d347c18c.png",
+    "static/media/prismlogodarkmode.png": "/prism-oslabs-beta.github.io/static/media/prismlogodarkmode.e47a6b01142e8c4e1bc7.png",
+    "index.html": "/prism-oslabs-beta.github.io/index.html",
+    "main.c3fe1380.css.map": "/prism-oslabs-beta.github.io/static/css/main.c3fe1380.css.map",
+    "main.98ac3e18.js.map": "/prism-oslabs-beta.github.io/static/js/main.98ac3e18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3fe1380.css",
+    "static/js/main.98ac3e18.js"
+  ]
+}
