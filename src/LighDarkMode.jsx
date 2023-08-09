@@ -1,10 +1,8 @@
-import React, { FC, useContext } from 'react';
+import React, { useContext } from 'react';
 import { ThemeContext } from './themeContext';
 import { MdLightMode, MdDarkMode } from 'react-icons/md';
 
-interface Props {}
-
-const LightDarkMode: FC<Props> = () => {
+const LightDarkMode = () => {
   const { theme, setTheme } = useContext(ThemeContext);
   return (
     <div className='flex '>
