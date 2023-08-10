@@ -79,7 +79,10 @@ export default function LandingHeader() {
             href='https://github.com/oslabs-beta/Prism'
             className=' p-3 cursor-pointer bg-transparent  hover:text-[var(--secondary)] hover:bg-[var(--primary)] rounded-sm flex justify-center items-center'
           >
-            <a href='https://github.com/oslabs-beta/Prism' target='_blank'>
+            <a
+              href='https://medium.com/@k8s.prism/prism-all-in-one-kubernetes-visualizer-7338b56f8de2'
+              target='_blank'
+            >
               {' '}
               BLOG
             </a>
@@ -97,10 +100,7 @@ export default function LandingHeader() {
             </a>
           </li>
           <li className='p-0 m-0'>
-            <a
-              href='https://www.linkedin.com/in/prism-kubernetes-visualizer/'
-              target='_blank'
-            >
+            <a href='https://linkedIn.com/companies/k8prism' target='_blank'>
               <img
                 src={LinkedIn}
                 alt='LinkedIn Logo'

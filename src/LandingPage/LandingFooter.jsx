@@ -10,7 +10,7 @@ export default function LandingFooter() {
       <ul className='flex text-xl'>
         <li className='hover:text-[var(--primary-600)]'>
           <a
-            href='https://www.linkedin.com/in/prism-kubernetes-visualizer/'
+            href='https://linkedIn.com/companies/k8prism'
             target='_blank'
             className='text-[16px]'
           >
