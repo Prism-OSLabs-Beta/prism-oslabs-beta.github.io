@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prism-oslabs-beta.github.io/static/css/main.c3fe1380.css",
-    "main.js": "/prism-oslabs-beta.github.io/static/js/main.98ac3e18.js",
+    "main.js": "/prism-oslabs-beta.github.io/static/js/main.7b2e1ff1.js",
     "static/media/selected_4_dark.png": "/prism-oslabs-beta.github.io/static/media/selected_4_dark.b20f894545fc668df14a.png",
     "static/media/selected_4_light.png": "/prism-oslabs-beta.github.io/static/media/selected_4_light.78823a1ef9728da6b5c2.png",
     "static/media/selected_1_Dark.png": "/prism-oslabs-beta.github.io/static/media/selected_1_Dark.b1fea35674bf28da03fb.png",
@@ -12,10 +12,10 @@
     "static/media/prismlogodarkmode.png": "/prism-oslabs-beta.github.io/static/media/prismlogodarkmode.e47a6b01142e8c4e1bc7.png",
     "index.html": "/prism-oslabs-beta.github.io/index.html",
     "main.c3fe1380.css.map": "/prism-oslabs-beta.github.io/static/css/main.c3fe1380.css.map",
-    "main.98ac3e18.js.map": "/prism-oslabs-beta.github.io/static/js/main.98ac3e18.js.map"
+    "main.7b2e1ff1.js.map": "/prism-oslabs-beta.github.io/static/js/main.7b2e1ff1.js.map"
   },
   "entrypoints": [
     "static/css/main.c3fe1380.css",
-    "static/js/main.98ac3e18.js"
+    "static/js/main.7b2e1ff1.js"
   ]
 }
